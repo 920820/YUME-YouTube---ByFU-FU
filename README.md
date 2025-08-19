@@ -2,8 +2,6 @@
 
 悠夢 YouTube 下載器 - ByFU-FU V1.9.2 🎥
 
-送給悠夢
-
 一款基於 Python + Tkinter 的簡易圖形介面 YouTube 影片下載器。
 內建整合 yt-dlp 與 FFmpeg，支援多種畫質選擇、進度顯示，以及下載過程的即時日誌。
 
